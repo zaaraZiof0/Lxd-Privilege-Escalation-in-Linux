@@ -12,7 +12,7 @@ If lxd is listed, then continue.
 
 Download a this Alpine Linux container image from github.
 ```
-git clone
+git clone https://github.com/zaaraZiof0/Lxd-Privilege-Escalation-in-Linux.git
 ```
 
 Now share this image file alphine-v3.13-x86_64-20210218_0139.tar.gz to the victim machine.
